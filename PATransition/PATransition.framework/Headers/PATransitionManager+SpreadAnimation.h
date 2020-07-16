@@ -1,0 +1,17 @@
+//
+//  PATransitionManager+SpreadAnimation.h
+//  PATransition
+//
+//  Created by AlanWang on 16/9/21.
+//  Copyright © 2016年 王小树. All rights reserved.
+//
+
+#import "PATransitionManager.h"
+
+@interface  PATransitionManager (SpreadAnimation)<CAAnimationDelegate>
+- (void)spreadNextWithType:(PATransitionAnimationType)type andTransitonContext:(id<UIViewControllerContextTransitioning>)transitionContext;
+- (void)spreadBackWithType:(PATransitionAnimationType)type andTransitonContext:(id<UIViewControllerContextTransitioning>)transitionContext;
+- (void)pointSpreadNextWithContext:(id<UIViewControllerContextTransitioning>)transitionContext;
+- (void)pointSpreadBackWithContext:(id<UIViewControllerContextTransitioning>)transitionContext;
+
+@end

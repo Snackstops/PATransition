@@ -1,0 +1,6 @@
+framework module PATransition {
+  umbrella header "PATransition.h"
+
+  export *
+  module * { export * }
+}

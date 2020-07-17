@@ -19,3 +19,4 @@ FOUNDATION_EXPORT const unsigned char PATransitionVersionString[];
 #import "UINavigationController+PATransition.h"
 #import "PATransitionTools.h"
 #import "PATransitionModel.h"
+#import "PAT_IMGZOOMViewController.h"

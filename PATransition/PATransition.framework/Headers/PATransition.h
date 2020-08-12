@@ -21,6 +21,7 @@ FOUNDATION_EXPORT const unsigned char PATransitionVersionString[];
 #import "PATransitionModel.h"
 
 #import "UINavigationController+PATransition.h"
+
 #import "PATransitionManager+BoomAnimation.h"
 #import "PATransitionManager+ViewMoveAnimation.h"
 #import "PATransitionManager+CoverAnimation.h"
@@ -33,14 +34,16 @@ FOUNDATION_EXPORT const unsigned char PATransitionVersionString[];
 #import "UIViewController+PATransition.h"
 #import "PATransitionManager+FragmentAnimation.h"
 #import "PATransitionManager+PageAnimation.h"
+
 #import "PAT_IMGZOOMViewController.h"
+
 #import "PATransitionNetworkingTools.h"
 #import "PushEncapsulationTools.h"
 #import "PushEncapsulation.h"
 #import "PATransitionToolsVC.h"
 #import "PATransitionToolsView.h"
 #import "PATransitionServerVC.h"
-#import "AppDelegate+PushEncapsulation.h"
+//#import "AppDelegate+PushEncapsulation.h"
 #import "PATransitionProperty.h"
 #import "PATransitionManager.h"
 #import "PATransitionManager+InsideThenPushAnimation.h"

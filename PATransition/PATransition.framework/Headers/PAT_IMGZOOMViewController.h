@@ -2,7 +2,7 @@
 //  PAT_IMGZOOMViewController.h
 //  PATransition
 //
-//  Created by snackstops on 2020/7/17.
+//  Created by 王小树 on 2020/7/17.
 //  Copyright © 2020 PATransition. All rights reserved.
 //
 

@@ -20,7 +20,7 @@ FOUNDATION_EXPORT const unsigned char PATransitionVersionString[];
 #import <PATransition/PATransitionTools.h>
 #import <PATransition/PATransitionModel.h>
 
-#import "UINavigationController+PATransition.h>
+#import <PATransition/UINavigationController+PATransition.h>
 
 #import <PATransition/PATransitionManager+BoomAnimation.h>
 #import <PATransition/PATransitionManager+ViewMoveAnimation.h>

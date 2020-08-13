@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "PATransition"
-  spec.version      = "0.1.4"
+  spec.version      = "0.1.5"
   spec.summary      = "It is a transition animation asset."
 
   # This description is used to generate tags and improve search results.
@@ -135,7 +135,7 @@ Pod::Spec.new do |spec|
 
   # spec.xcconfig = { "HEADER_SEARCH_PATHS" => "$(SDKROOT)/usr/include/libxml2" }
   # spec.dependency "JSONKit", "~> 1.4"
-  spec.dependency  'AFNetworking','4.0.1'
+  #spec.dependency  'AFNetworking','4.0.1'
   spec.dependency  'JPush','3.3.3'
 
 end

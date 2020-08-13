@@ -17,38 +17,38 @@ FOUNDATION_EXPORT const unsigned char PATransitionVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <PATransition/PublicHeader.h>
 
 
-#import "PATransitionTools.h"
-#import "PATransitionModel.h"
+#import <PATransition/PATransitionTools.h>
+#import <PATransition/PATransitionModel.h>
 
-#import "UINavigationController+PATransition.h"
+#import "UINavigationController+PATransition.h>
 
-#import "PATransitionManager+BoomAnimation.h"
-#import "PATransitionManager+ViewMoveAnimation.h"
-#import "PATransitionManager+CoverAnimation.h"
-#import "UIViewController+PATransitionProperty.h"
-#import "PATypedefConfig.h"
-#import "PATransitionManager+TypeTool.h"
-#import "PATransitionManager+FlipAnimation.h"
-#import "PAPercentDrivenInteractiveTransition.h"
-#import "PATransitionManager+BrickAnimation.h"
-#import "UIViewController+PATransition.h"
-#import "PATransitionManager+FragmentAnimation.h"
-#import "PATransitionManager+PageAnimation.h"
+#import <PATransition/PATransitionManager+BoomAnimation.h>
+#import <PATransition/PATransitionManager+ViewMoveAnimation.h>
+#import <PATransition/PATransitionManager+CoverAnimation.h>
+#import <PATransition/UIViewController+PATransitionProperty.h>
+#import <PATransition/PATypedefConfig.h>
+#import <PATransition/PATransitionManager+TypeTool.h>
+#import <PATransition/PATransitionManager+FlipAnimation.h>
+#import <PATransition/PAPercentDrivenInteractiveTransition.h>
+#import <PATransition/PATransitionManager+BrickAnimation.h>
+#import <PATransition/UIViewController+PATransition.h>
+#import <PATransition/PATransitionManager+FragmentAnimation.h>
+#import <PATransition/PATransitionManager+PageAnimation.h>
 
-#import "PAT_IMGZOOMViewController.h"
+#import <PATransition/PAT_IMGZOOMViewController.h>
 
-#import "PATransitionNetworkingTools.h"
-#import "PushEncapsulationTools.h"
-#import "PushEncapsulation.h"
-#import "PATransitionToolsVC.h"
-#import "PATransitionToolsView.h"
-#import "PATransitionServerVC.h"
-//#import "AppDelegate+PushEncapsulation.h"
-#import "PATransitionProperty.h"
-#import "PATransitionManager.h"
-#import "PATransitionManager+InsideThenPushAnimation.h"
-#import "PATransitionManager+SpreadAnimation.h"
-#import "PATransitionManager+SystermAnimation.h"
+#import <PATransition/PATransitionNetworkingTools.h>
+#import <PATransition/PushEncapsulationTools.h>
+#import <PATransition/PushEncapsulation.h>
+#import <PATransition/PATransitionToolsVC.h>
+#import <PATransition/PATransitionToolsView.h>
+#import <PATransition/PATransitionServerVC.h>
+//#import "AppDelegate+PushEncapsulation.h>
+#import <PATransition/PATransitionProperty.h>
+#import <PATransition/PATransitionManager.h>
+#import <PATransition/PATransitionManager+InsideThenPushAnimation.h>
+#import <PATransition/PATransitionManager+SpreadAnimation.h>
+#import <PATransition/PATransitionManager+SystermAnimation.h>
 
 
 

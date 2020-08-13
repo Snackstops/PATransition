@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "PATransition"
-  spec.version      = "0.2.7"
+  spec.version      = "0.2.8"
   spec.summary      = "It is a transition animation asset."
 
   # This description is used to generate tags and improve search results.
